@@ -3,7 +3,8 @@ package fff;
 public class frr {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Exception while taking screenshot ");
+		System.out.println("Exception while taking screenshotaaa ");
 
 	}
 
