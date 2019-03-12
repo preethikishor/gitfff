@@ -6,7 +6,7 @@ public class frr {
 		System.out.println("Exception while taking screenshotbbbdd ");
 		System.out.println("Exception while taking screenshot");
 		System.out.println("Exception while taking screenshotrrrr");
-		System.out.println("Exception while taking screenshotddd");
+		
 	}
 
 }
